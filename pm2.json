@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "magicApi",
+    "script": "production.js",
+    "cwd": "C:\Users\94132\Desktop\magicHtml\magicApi\magicApi",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
